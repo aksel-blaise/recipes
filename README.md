@@ -6,4 +6,4 @@ The bulk of those recipes included in this repository are not my own, and many c
 
 Eat well, friends.
 
-![](./images/true.jpg)
+![Loyal sous chef](./images/true.jpg)
