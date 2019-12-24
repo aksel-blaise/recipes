@@ -1,6 +1,6 @@
 # peanut butter
 
-Peanut butter has long been a staple of my diet, and it is very easy to make. Whether used on roasted poblano and peanut butter sandwiches, or as a dip for vegetables, it can be a delicious snack or a main course. I do tinker quite a bit with this recipe. For the holidays, a little bit of cinnamon and clove adds a nice touch. Peanut butter can always be sweetened with honey, and I like to add some cocoa for movie night PB and veggies.
+Peanut butter has long been a staple of my diet, and it is very easy to make. Whether used on roasted poblano and peanut butter sandwiches, as a dip for vegetables or as an ingredient in a complex dish, it can be a delicious snack or a main course. I do tinker quite a bit with this recipe. For the holidays, a little bit of cinnamon and clove adds a nice touch. Peanut butter can always be sweetened with honey, and I like to add some cocoa for movie night PB and veggies.
 
 ![](../images/peanut-butter.jpg)
 
