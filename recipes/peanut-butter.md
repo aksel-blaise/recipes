@@ -19,7 +19,7 @@ You will need a food processor, spatula, and a Mason jar or other sealable conta
 
 ### Instructions
 
-If you would like to roast them, do that first. Heat your oven to 350 degrees (F), and watch for the color to change to a glossy light brown. Should take around 10 minutes.
+If you would like to roast them, do that first. Heat your oven to 350 degrees (F), and watch for the color to change to a glossy light brown. This should take around 10 minutes.
 
 Place the peanuts into the food processor, and pulse for five minutes (use the spatula to scrape down the sides as needed), then add the _optional_ oil, honey, cocoa powder, cinnamon/clove, and pulse for another three minutes until silky. Taste the mix, and alter the ingredients until you are happy with it. Tinker freely, and make it your own. If you prefer chunky peanut butter, add 1/4 cup of peanuts, and pulse the processor for just a moment until the desired consistency is achieved.
 
