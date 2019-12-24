@@ -1,6 +1,6 @@
 # peanut butter
 
-Peanut butter has long been a staple of my diet, and it is very easy to make. Whether used on roasted poblano and peanut butter sandwiches, as a dip for vegetables or as an ingredient in a complex dish, it can be a delicious snack or a main course. I do tinker quite a bit with this recipe. For the holidays, a little bit of cinnamon and clove adds a nice touch. Peanut butter can always be sweetened with honey, and I like to add some cocoa for movie night PB and veggies.
+Peanut butter has long been a staple of my diet, and it is very easy to make. Whether used on roasted poblano and peanut butter sandwiches, as a dip for vegetables, or as an ingredient in a complex dish, it can be a delicious snack or a main course on a long bike ride. I do tinker quite a bit with this recipe. For the holidays, a little bit of cinnamon and clove adds a nice touch. Peanut butter can always be sweetened with honey, and I like to add some cocoa for movie night PB and veggies.
 
 ![](../images/peanut-butter.jpg)
 
@@ -19,7 +19,7 @@ You will need a food processor, spatula, and a Mason jar or other sealable conta
 
 ### Instructions
 
-If you would like to roast them, do that first. Heat your oven to 350 degrees (F), and watch for the color to change to a glossy light brown. This should take around 10 minutes.
+If you would like to roast the peanuts, do that first. Heat your oven to 350 degrees (F), and watch for the color to change to a glossy light brown. This should take around 10 minutes.
 
 Place the peanuts into the food processor, and pulse for five minutes (use the spatula to scrape down the sides as needed), then add the _optional_ oil, honey, cocoa powder, cinnamon/clove, and pulse for another three minutes until silky. Taste the mix, and alter the ingredients until you are happy with it. Tinker freely, and make it your own. If you prefer chunky peanut butter, add 1/4 cup of peanuts, and pulse the processor for just a moment until the desired consistency is achieved.
 
