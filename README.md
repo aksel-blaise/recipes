@@ -8,6 +8,6 @@ Eat well, friends.
 
 ![Loyal sous chef](./images/true.jpg)
 
-### Contents (to be updated, revised, and shiffled as more recipes are added
+### Contents (to be updated, revised, and shuffled as more recipes are added)
 
 [peanut butter](recipes/peanut-butter.md)
