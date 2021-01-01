@@ -7,3 +7,5 @@ peanut-butter
 gear
 ingredients
 instructions
+appetizers-and-sides
+amys-hummus
