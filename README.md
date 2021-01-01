@@ -9,7 +9,3 @@ The bulk of those recipes included in this repository are not my own, and many c
 Eat well, friends.
 
 ![Loyal sous chef](./images/true.jpg)
-
-### Contents (to be updated, revised, and shuffled as more recipes are added)
-
-[peanut butter](recipes/peanut-butter.md)
