@@ -4,7 +4,7 @@
 
 _From the kitchen of Amy Pangburn_
 
-![](./images/amy.hummus.jpg)
+![](../images/hummus.jpg)
 
 
   *   1/2 cup tahini
